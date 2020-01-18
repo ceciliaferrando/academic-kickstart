@@ -1,6 +1,7 @@
 +++
 # About/Biography widget.
 widget = "about"
+author = "admin"
 active = true
 date = 2019-01-04T00:00:00
 
