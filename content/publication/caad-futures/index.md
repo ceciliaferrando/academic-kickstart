@@ -4,7 +4,7 @@ date = 2019-06-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Cecilia Ferrando", "<b> Niccolò Dalmasso</b>", "Jiawei Mai", "Daniel Cardoso Llach"]
+authors = ["<b> Cecilia Ferrando</b>", "Niccolò Dalmasso", "Jiawei Mai", "Daniel Cardoso Llach"]
 
 # Publication type.
 # Legend:
@@ -43,7 +43,7 @@ tags = []
 # Links (optional).
 url_pdf = "https://www.dropbox.com/s/aunlhqv3dq2ue1g/updated_CAADFutures19_cuminCAD_Proceeding.pdf?dl=0"
 url_preprint = ""
-url_code = "https://github.com/Mr8ND/ML-architectural-analytics"
+url_code = "https://github.com/ceciliaferrando/ML-architectural-analytics"
 url_dataset = ""
 url_project = ""
 url_slides = ""
