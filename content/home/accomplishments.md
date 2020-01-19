@@ -3,7 +3,7 @@
 widget = "accomplishments"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Honors and <br> Awards"
+title = "Scholarships"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -20,9 +20,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 +++
 
-* <b> [2020 Cadence Women in Technology Scholarship](https://www.cadence.com/en_US/home/company/cadence-academic-network/women-in-tech-scholarship.html) Datathon at Carnegie Mellon University </b> <br> 
+* <b> [2020 Cadence Women in Technology Scholarship](https://www.cadence.com/en_US/home/company/cadence-academic-network/women-in-tech-scholarship.html) </b> <br> 
 <br>
 * <b> [2016 Fulbright Scholarship](https://eca.state.gov/fulbright) </b> <br>
 <br>
-* <b> Full Scholarship - 2010-2016 </b> <br>
-[Collegio Carlo Alberto](https://www.carloalberto.org/) <br>
+* <b> Collegio Carlo Alberto Full Scholarship - 2010-2016 </b> <br>
+<br>
