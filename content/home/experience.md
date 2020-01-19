@@ -18,27 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "College of Information and Computer Sciences, University of Massachusetts, Amherst"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Amherst, MA"
+  date_start = "2019-09-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """Machine Learning research with prof. Daniel Sheldon"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Machine Learning Software Engineer"
+  company = "Cadence Design Systems"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Pittsburgh, PA"
+  date_start = "2018-06"
+  date_end = "2019-05"
+  description = """Applied research in deep learning, GANs and unsupervised learning"""
+  
+ [[experience]]
+  title = "Research Assistant"
+  company = "CodeLab, Carnegie Mellon University"
+  company_url = ""
+  location = "Pittsburgh, PA"
+  date_start = "2017-04"
+  date_end = "2017-09"
+  description = """Computational design research with prof. Daniel Cardoso Llach"""
+  
+ [[experience]]
+  title = "Quantitative Research Intern"
+  company = "Procore Technologies"
+  company_url = ""
+  location = "Santa Barbara, CA"
+  date_start = "2017-05"
+  date_end = "2017-07"
+  description = """Statistical data analysis for UX"""
 
 +++
