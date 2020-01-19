@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-TBC
+I am a first year PhD student in the College of Information and Computer Sciences at the University of Massachusetts, Amherst. My research interests include statistical machine learning and differential privacy. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/).
