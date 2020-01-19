@@ -31,8 +31,8 @@ date_format = "Jan 2006"
   company = "Cadence Design Systems"
   company_url = ""
   location = "Pittsburgh, PA"
-  date_start = "2018-06"
-  date_end = "2019-05"
+  date_start = "2018-06-11"
+  date_end = "2019-05-30"
   description = """Applied research in deep learning, GANs and unsupervised learning"""
   
  [[experience]]
@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   company = "CodeLab, Carnegie Mellon University"
   company_url = ""
   location = "Pittsburgh, PA"
-  date_start = "2017-04"
-  date_end = "2017-09"
+  date_start = "2017-04-01"
+  date_end = "2017-09-30"
   description = """Computational design research with prof. Daniel Cardoso Llach"""
   
  [[experience]]
@@ -49,8 +49,8 @@ date_format = "Jan 2006"
   company = "Procore Technologies"
   company_url = ""
   location = "Santa Barbara, CA"
-  date_start = "2017-05"
-  date_end = "2017-07"
+  date_start = "2017-05-23"
+  date_end = "2017-07-28"
   description = """Statistical data analysis for UX"""
 
 +++
