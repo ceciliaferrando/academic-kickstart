@@ -73,4 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student in the College of Information and Computer Sciences at the University of Massachusetts, Amherst. My research interests include statistical machine learning and differential privacy. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/).
+I am a first year PhD student in the College of Information and Computer Sciences at the University of Massachusetts, Amherst. My research interests include statistical machine learning and differential privacy. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
+
+Before starting my PhD, I obtained a MS in Computational Design at Carnegie Mellon University, where I was supported by the Fulbright Scholarship. Upon graduating from Carnegie Mellon, I worked as a Machine Learning Software Engineer at Cadence, Pittsburgh.
+
+Besides research and classes, I serve as Social Co-Chair for the UMass CS Women Group.
