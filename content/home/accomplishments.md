@@ -24,5 +24,7 @@ date_format = "Jan 2006"
 <br>
 * <b> [2016 Fulbright Scholarship](https://eca.state.gov/fulbright) </b> <br>
 <br>
-* <b> [Collegio Carlo Alberto Full Scholarship](https://carloalberto.org) - 2010-2016 </b> <br>
+* <b> [2010-2016 Collegio Carlo Alberto Full Scholarship](https://carloalberto.org) </b> <br>
+<br>
+* <b> [2010-2016 Collegio Carlo Alberto Full Scholarship](https://carloalberto.org) </b> <br>
 <br>
