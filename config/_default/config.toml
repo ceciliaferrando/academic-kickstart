@@ -1,11 +1,11 @@
-# Configuration of Academic
+i# Configuration of Academic
 # Documentation: https://sourcethemes.com/academic/
 #
 # This file is formatted using TOML syntax - learn more at https://learnxinyminutes.com/docs/toml/
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Academic"
+title = "Cecilia Ferrando"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
