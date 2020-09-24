@@ -22,6 +22,8 @@ date_format = "Jan 2006"
 
 * <b> [2020 Cadence Women in Technology Scholarship](https://www.cadence.com/en_US/home/company/cadence-academic-network/women-in-tech-scholarship.html) </b> <br> 
 <br>
+* <b> [2019 UMass Amherst CS Fellowship](https://www.cics.umass.edu/) </b> <br> 
+<br>
 * <b> [2016 Fulbright Scholarship](https://eca.state.gov/fulbright) </b> <br>
 <br>
 * <b> [2010-2016 Collegio Carlo Alberto Full Scholarship](https://carloalberto.org) </b> <br>
