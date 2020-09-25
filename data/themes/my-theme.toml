@@ -5,7 +5,7 @@ name = "my-theme"
 light = true
 
 # Primary
-primary = "rgb(117, 57, 74)"
+primary = "rgb(145, 36, 125)"
 
 # Menu
 menu_primary = "rgb(247, 247, 247)"
@@ -15,4 +15,4 @@ menu_title = "#000"
 
 # Home sections
 home_section_odd = "#FFF"
-home_section_even = "rgb(234, 242, 250)"
+home_section_even = "rgb(235, 235, 235)"
