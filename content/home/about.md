@@ -42,6 +42,4 @@ weight = 5
 +++
 
 # About
-I am a first year PhD student in the College of Information and Computer Sciences at the University of Massachusetts, Amherst. My interests are statistical machine learning and differential privacy. I am advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
-
-TBC coming soon
+I am a second-year PhD student in the College of Information and Computer Sciences at the University of Massachusetts Amherst. My interests are statistical machine learning and differential privacy. I am advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/).
