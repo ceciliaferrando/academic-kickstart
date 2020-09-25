@@ -18,8 +18,8 @@ authors = ["<b> Cecilia Ferrando</b>"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Spatial Cognition 2018, Best Poster Award"
-publication_short = "Spatial Cognition 2018"
+publication = "In *Spatial Cognition 2018*, Best Poster Award"
+publication_short = "In *Spatial Cognition 2018*"
 
 # Abstract and optional shortened version.
 abstract = "Can Machine Learning algorithms become a useful tool in the analysis of archi-
