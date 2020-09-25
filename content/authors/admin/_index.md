@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Machine Learning and Artificial Intelligence
+  - course: PhD in Computer Science
     institution: University of Massachusetts, Amherst
     year: 2024
   - course: MS in Computational Design, focus on Machine Learning
