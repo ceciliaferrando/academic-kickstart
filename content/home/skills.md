@@ -28,5 +28,10 @@ subtitle = ""
   icon = "chart-bar"
   icon_pack = "fas"
   name = "Data Analysis" 
+  
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistics" 
 
 +++
