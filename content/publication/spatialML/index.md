@@ -22,19 +22,7 @@ publication = "In *Spatial Cognition 2018*, Best Poster Award"
 publication_short = "In *Spatial Cognition 2018*"
 
 # Abstract and optional shortened version.
-abstract = "Can Machine Learning algorithms become a useful tool in the analysis of archi-
-tectural space? Motivated by this question, in this poster I introduce a Machine
-Learning framework for predicting the qualities of architectural spaces based on
-quantitative spatial features extracted out of plan images. In particular, I am
-interested in the quality of privacy. My goal is to train Machine Learning classi-
-ﬁers to distinguish intimate from non-intimate spaces on a plan based on a few
-quantitative features. I work with a sample dataset of house plans. For each room
-in each plan, a vector of spatial features is extracted that reﬂect either graphical
-or visibility properties. By running several Machine Learning classiﬁers on this
-dataset, patterns relating Space Syntax features and the level of intimacy of dif-
-ferent rooms do emerge. At the same time, the limits in these results reinforce
-the need for a more complex function approximator (such as a Neural Network)
-to detect spatial patterns."
+abstract = "Can Machine Learning algorithms become a useful tool in the analysis of architectural space? Motivated by this question, in this poster I introduce a Machine Learning framework for predicting the qualities of architectural spaces based on quantitative spatial features extracted out of plan images. In particular, I am interested in the quality of privacy. My goal is to train Machine Learning classiﬁers to distinguish intimate from non-intimate spaces on a plan based on a few quantitative features. I work with a sample dataset of house plans. For each room in each plan, a vector of spatial features is extracted that reﬂect either graphical or visibility properties. By running several Machine Learning classiﬁers on this dataset, patterns relating Space Syntax features and the level of intimacy of different rooms do emerge. At the same time, the limits in these results reinforce the need for a more complex function approximator (such as a Neural Network) to detect spatial patterns."
 
 # Is this a selected publication? (true/false)
 selected = true
