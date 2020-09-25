@@ -56,9 +56,9 @@ social:
   link: https://github.com/ceciliaferrando
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student in the College of Information and Computer Sciences at the University of Massachusetts, Amherst. My research interests include statistical machine learning and differential privacy. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
+I am a second-year PhD student in the College of Information and Computer Sciences (CICS) at the University of Massachusetts, Amherst. My current research is on statistical inference under differential privacy. I'm broadly interested in statistical machine learning and privacy-preserving machine learning. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
 
 Before starting my PhD, I obtained a MS in Computational Design at Carnegie Mellon University, where I was supported by the Fulbright Scholarship. Upon graduating from Carnegie Mellon, I worked as a Machine Learning Software Engineer at Cadence, Pittsburgh.
 
-Besides research and courses, I serve as Social Co-Chair for the UMass CS Women Group.
+Besides research and courses, I serve in the Committee Against Racism and for Equity at CICS. I've also served as Social Co-Chair for the UMass Graduate CS Women group. 
