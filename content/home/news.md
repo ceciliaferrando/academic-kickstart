@@ -22,6 +22,7 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
+* 12/2020 - Presented my poster on parametric bootstrap debiasing methods for differential privacy at [NeurIPS WiML Workshop](https://wimlworkshop.org/neurips2020/). Thank you to [Women in Machine Learnin](https://wimlworkshop.org/) for funding my registration!
 * 09/2020 - Virtually meet me at [GHC 2020](https://ghc.anitab.org/). Thank you to [UMass CICS](https://www.cics.umass.edu/) fully funding my registration!
 * 07/2020 - I will be at [ICML 2020](https://icml.cc/virtual/2020). Special thanks to [Women in Machine Learning](https://wimlworkshop.org/) for awarding me registration funding!
 * 06/2020 - Pre-print of [our paper](https://arxiv.org/abs/2006.07749) on differentially-private confidence intervals is now publicly available
