@@ -19,10 +19,20 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   
+ [[feature]]
+  icon = "codepen"
+  icon_pack = "fas"
+  name = "C++" 
+  
 [[feature]]
   icon = "cogs"
   icon_pack = "fas"
   name = "Machine Learning" 
+  
+ [[feature]]
+  icon = "layer-group"
+  icon_pack = "fas"
+  name = "Deep Learning" 
 
 [[feature]]
   icon = "chart-bar"
@@ -38,5 +48,17 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Differential Privacy" 
+  
+ [[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "Probabilistic Graphical Models"
+  
+ [[feature]]
+  icon = "alien-monster"
+  icon_pack = "fas"
+  name = "Reinforcement Learning" 
+  
+
 
 +++
