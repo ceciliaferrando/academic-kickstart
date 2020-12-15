@@ -20,7 +20,7 @@ subtitle = ""
   name = "Python"
   
  [[feature]]
-  icon = "codepen"
+  icon = "dice-d6"
   icon_pack = "fas"
   name = "C++" 
   
@@ -33,16 +33,16 @@ subtitle = ""
   icon = "layer-group"
   icon_pack = "fas"
   name = "Deep Learning" 
-
-[[feature]]
-  icon = "chart-bar"
-  icon_pack = "fas"
-  name = "Data Analysis" 
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics" 
+  
+ [[feature]]
+  icon = "chart-bar"
+  icon_pack = "fas"
+  name = "Data Analysis" 
   
  [[feature]]
   icon = "database"
@@ -55,7 +55,7 @@ subtitle = ""
   name = "Probabilistic Graphical Models"
   
  [[feature]]
-  icon = "alien-monster"
+  icon = "brain"
   icon_pack = "fas"
   name = "Reinforcement Learning" 
   
