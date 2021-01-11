@@ -74,4 +74,4 @@ I am a second-year PhD student in the College of Information and Computer Scienc
 
 Before starting my PhD, I obtained a MS in Computational Design at Carnegie Mellon University, where I was supported by the Fulbright Scholarship. Upon graduating from Carnegie Mellon, I worked as a Machine Learning Software Engineer at Cadence, Pittsburgh.
 
-Besides research and courses, I serve in the Committee Against Racism and for Equity at CICS. I've also served as Social Co-Chair for the UMass Graduate CS Women group. 
+Besides research and courses, I serve as Co-Chair of the PhD Applicant Support Program. I'm also co-leading the organizing committe of Voices of Data Science at UMass Amherst 2021. 
