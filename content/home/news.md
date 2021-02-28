@@ -22,6 +22,7 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
+* 02/2021 - [Voices of Data Science 2021](https://groups.cs.umass.edu/voicesofds/) has been a success! Proud of the team who pulled off a virtual conference all while working remotely.  
 * 02/2021 - I'll be attending the [2021 CRA-WP Grad Cohort for Women](https://cra.org/cra-wp/grad-cohort-for-women/). Looking forward!
 * 12/2020 - Presented my poster on parametric bootstrap debiasing methods for differential privacy at [NeurIPS WiML Workshop](https://wimlworkshop.org/neurips2020/). Thank you to [Women in Machine Learning](https://wimlworkshop.org/) for funding my registration!
 * 09/2020 - Virtually meet me at [GHC 2020](https://ghc.anitab.org/). Thank you to [UMass CICS](https://www.cics.umass.edu/) fully funding my registration!
