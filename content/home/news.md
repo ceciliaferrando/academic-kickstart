@@ -22,7 +22,7 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-* 05/2021 - Excited to start as a Research Intern at Google!
+* 05/2021 - Excited to start as an Intern at Google Research!
 * 05/2021 - Honored to receive the Dean's Outstanding Anti-Racism Leadership Award as Co-Chair of the [PhD Applicant Support Program](https://www.cics.umass.edu/admissions/phd-applicant-support-program#:~:text=The%20PhD%20Applicant%20Support%20Program,and%20for%20Equity%20(CARE).)
 * 02/2021 - [Voices of Data Science 2021](https://groups.cs.umass.edu/voicesofds/) has been a success! Proud of the team who pulled off a virtual conference all while working remotely.  
 * 02/2021 - I'll be attending the [2021 CRA-WP Grad Cohort for Women](https://cra.org/cra-wp/grad-cohort-for-women/). Looking forward!
