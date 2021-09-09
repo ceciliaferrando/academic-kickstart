@@ -17,6 +17,16 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Research Intern"
+  company = "Google Research NY"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2021-05-24"
+  date_end = "2021-08-27"
+  description = """Differential Privacy research with Alex Kulesza and Jenny Gillenwater, Modeling and Data Science team, NY"""
+  
 [[experience]]
   title = "Research Assistant"
   company = "College of Information and Computer Sciences, University of Massachusetts, Amherst"
