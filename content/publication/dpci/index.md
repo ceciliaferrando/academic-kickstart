@@ -1,6 +1,6 @@
 +++
-title = "General-Purpose Differentially-Private Confidence Intervals"
-date = 2020-06-15T00:00:00
+title = "Parametric Bootstrap for Differentially Private Confidence Intervals"
+date = 2021-10-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,8 +18,8 @@ authors = ["<b> Cecilia Ferrando</b>", "Shufan Wang", "Daniel Sheldon"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Theory and Practice of Differential Privacy 2020"
-publication_short = "In TPDP 2020"
+publication = "Under review"
+publication_short = "Under review"
 
 # Abstract and optional shortened version.
 abstract = "One of the most common statistical goals is to estimate a population parameter and quantify uncertainty by constructing a confidence interval. However, the field of differential privacy lacks easy-to-use and general methods for doing so. We partially fill this gap by developing two broadly applicable methods for private confidence-interval construction. The first is based on asymptotics: for two widely used model classes, exponential families and linear regression, a simple private estimator has the same asymptotic normal distribution as the corresponding non-private estimator, so confidence intervals can be constructed using quantiles of the normal distribution. These are computationally cheap and accurate for large data sets, but do not have good coverage for small data sets. The second approach is based on the parametric bootstrap. It applies out of the box to a wide class of private estimators and has good coverage at small sample sizes, but with increased computational cost. Both methods are based on post-processing the private estimator and do not consume additional privacy budget."
