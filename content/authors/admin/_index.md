@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a second-year PhD student in the College of Information and Computer Sciences (CICS) at the University of Massachusetts, Amherst. My current research is on statistical inference under differential privacy. I'm broadly interested in statistical machine learning and privacy-preserving machine learning. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
+I am a third-year PhD student in the College of Information and Computer Sciences (CICS) at the University of Massachusetts, Amherst. My current research is on statistical inference under differential privacy. I'm broadly interested in statistical machine learning and privacy-preserving machine learning. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
 
 Before starting my PhD, I obtained a MS in Computational Design at Carnegie Mellon University, where I was supported by the Fulbright Scholarship. Upon graduating from Carnegie Mellon, I worked as a Machine Learning Software Engineer at Cadence, Pittsburgh.
 
