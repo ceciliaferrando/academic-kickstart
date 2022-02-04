@@ -22,8 +22,8 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-* 01/2021 - Excited to share I've accepted a position as a Summer 2022 Privacy & Stats Research Intern at Meta with one of my favorite researchers, James Honaker
-* 01/2021 - [Our paper](https://arxiv.org/abs/2006.07749) Parametric Bootstrap for Differentially Private Confidence Intervals has been accepted to AISTATS 2022
+* 01/2021 - Excited to share I've accepted a position as a Summer 2022 Privacy & Stats Research Intern at [Meta](https://about.facebook.com/meta/) with one of my favorite researchers, James Honaker
+* 01/2021 - [Our paper](https://arxiv.org/abs/2006.07749) Parametric Bootstrap for Differentially Private Confidence Intervals has been accepted to [AISTATS 2022](http://aistats.org/aistats2022/)
 * 05/2021 - Excited to start as an Intern at [Google Research](https://research.google/)!
 * 05/2021 - Honored to receive the Dean's Outstanding Anti-Racism Leadership Award as Co-Chair of the [PhD Applicant Support Program](https://www.cics.umass.edu/admissions/phd-applicant-support-program#:~:text=The%20PhD%20Applicant%20Support%20Program,and%20for%20Equity%20(CARE).)
 * 02/2021 - [Voices of Data Science 2021](https://groups.cs.umass.edu/voicesofds/) has been a success! Proud of the team who pulled off a virtual conference all while working remotely.  
