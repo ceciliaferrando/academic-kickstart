@@ -22,6 +22,7 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
+* 09/2022 - Virtually meet me at [GHC 2022](https://ghc.anitab.org/). Thank you to the Anita Borg foundation for my GHC Scholarship!
 * 01/2021 - Excited to share I've accepted a position as a Summer 2022 Privacy & Stats Research Intern at [Meta](https://about.facebook.com/meta/) with one of my favorite researchers, James Honaker
 * 01/2021 - [Our paper](https://arxiv.org/abs/2006.07749) Parametric Bootstrap for Differentially Private Confidence Intervals has been accepted to [AISTATS 2022](http://aistats.org/aistats2022/)
 * 05/2021 - Excited to start as an Intern at [Google Research](https://research.google/)!
