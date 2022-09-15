@@ -20,11 +20,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 +++
 
-* <b> [2020 Cadence Women in Technology Scholarship](https://www.cadence.com/en_US/home/company/cadence-academic-network/women-in-tech-scholarship.html) </b> <br> 
+* <b> [2022 GHC Scholarship](https://ghc.anitab.org/attend/scholarships/) </b> <br> 
+<br>
+* <b> [2020 Cadence Women in Technology Scholarship ($10,000)](https://www.cadence.com/en_US/home/company/cadence-academic-network/women-in-tech-scholarship.html) </b> <br> 
 <br>
 * <b> [2019 UMass Amherst CS Fellowship](https://www.cics.umass.edu/) </b> <br> 
 <br>
-* <b> [2016 Fulbright Scholarship](https://eca.state.gov/fulbright) </b> <br>
+* <b> [2016 Fulbright Scholarship ($42,000)](https://eca.state.gov/fulbright) </b> <br>
 <br>
-* <b> [2010-2016 Collegio Carlo Alberto Full Scholarship](https://carloalberto.org) </b> <br>
+* <b> [2010-2016 Collegio Carlo Alberto Full Scholarship (~$12,000)](https://carloalberto.org) </b> <br>
 <br>
