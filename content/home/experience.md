@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company = "Meta"
   company_url = ""
   location = "New York, NY"
-  date_start = "2021-05-23"
-  date_end = "2021-07-30"
+  date_start = "2022-05-23"
+  date_end = "2022-07-30"
   description = """Differential Privacy applied research with James Honaker """
 
 [[experience]]
