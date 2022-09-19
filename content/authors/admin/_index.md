@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Massachusetts, Amherst
-    year: 2024
+    year: 2025 (exp.)
   - course: MS in Computational Design, focus on Machine Learning
     institution: Carnegie Mellon University
     year: 2018
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Manning College of Information and Computer Sciences (CICS) at the University of Massachusetts, Amherst. My current research is on statistical inference under differential privacy. I'm broadly interested in statistical machine learning and privacy-preserving machine learning. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
+I am a PhD student in the Manning College of Information and Computer Sciences at the University of Massachusetts, Amherst. My current research is on statistical inference under differential privacy. I'm broadly interested in statistical machine learning and privacy-preserving machine learning. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
 
 Before starting my PhD, I obtained a MS in Computational Design at Carnegie Mellon University, where I was supported by the Fulbright Scholarship. Upon graduating from Carnegie Mellon, I worked as a Machine Learning Software Engineer at Cadence, Pittsburgh. In the past couple of years, I have worked as a Summer research intern at Google (2021) and Meta (2022).
 
