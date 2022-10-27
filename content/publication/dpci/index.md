@@ -66,6 +66,10 @@ math = true
 #[image]
 #  # Caption (optional)
 #  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
+  preview_only: false
 
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
