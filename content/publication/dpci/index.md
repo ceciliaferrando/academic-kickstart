@@ -63,11 +63,9 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+[image]
+# Caption (optional)
+caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
