@@ -47,7 +47,7 @@ url_code = "https://github.com/ceciliaferrando/dp-ci"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = ""
+url_video = "https://drive.google.com/file/d/1EfcpShFQFwMxWKKNdfyvO0bBy1sTggYI/view?usp=sharing"
 url_poster = ""
 url_source = ""
 
@@ -65,7 +65,6 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
 # Caption (optional)
-caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
 url = "https://drive.google.com/file/d/1EfcpShFQFwMxWKKNdfyvO0bBy1sTggYI/view?usp=sharing"
 
 #  # Focal point (optional)
