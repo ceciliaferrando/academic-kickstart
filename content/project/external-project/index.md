@@ -1,4 +1,3 @@
----
 title: Parametric Bootstrap for Differentially Private Confidence Intervals
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
@@ -11,4 +10,3 @@ external_link: [video](https://drive.google.com/file/d/1EfcpShFQFwMxWKKNdfyvO0bB
 image:
   caption: AISTATS 2022 talk
   focal_point: Smart
----
