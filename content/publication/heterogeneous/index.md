@@ -47,7 +47,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "https://drive.google.com/file/d/16VemA_oOb0Z2W714GBuN3kW7RNbBVQdQ/view?usp=share_link"
 url_source = ""
 
 # Custom links (optional).
@@ -62,9 +62,9 @@ math = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#[image]
+[image]
 #  # Caption (optional)
-#  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption = ""
 
 #  # Focal point (optional)
 #  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
