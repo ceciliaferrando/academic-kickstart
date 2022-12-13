@@ -23,16 +23,17 @@ date_format = "Jan 2006"
 
 * <b> (2022-) JMLR reviewer </b> <br> 
 <br>
-* <b> (2020-2022) PhD Applicant Support Program (PASP) </b> University of Massachusetts Amherst CICS, Co-Founder and Co-Chair. A new
+* <b> (2020-2022) PhD Applicant Support Program (PASP). </b> University of Massachusetts Amherst CICS, Co-Founder and Co-Chair. A new
 mentorship program for prospective PhD students, with a focus on supporting underrepresented
 candidates. Received Dean’s Outstanding Anti-Racism Leadership Award. <br> 
 <br>
-* <b> (2020-2022) Graduate mentor </b> Mentored 8 CS undergraduate students. Honors thesis mentor to Adi Geva (now at NVIDIA).
+* <b> (2020-2022) Graduate mentor. </b> Mentored 8 CS undergraduate students. Honors thesis mentor to Adi Geva (now at NVIDIA).
 <br>
-* <b> (2019-2020) Voices of Data Science </b> Co-Chair. Lead the committee organizing the inaugural Voices of Data Science
+<br>
+* <b> (2019-2020) Voices of Data Science. </b> Co-Chair. Lead the committee organizing the inaugural Voices of Data Science
 at UMass Amherst conference. The 2021 edition highlighted work by women (cis and trans) and non-binary
 data scientists<br> 
 <br>
-* <b> (2020) UMass Graduate CS Women group </b> Social Co-Chair. Organized networking events for CS women
+* <b> (2020) UMass Graduate CS Women group. </b> Social Co-Chair. Organized networking events for CS women
 graduate students and faculty<br> 
 <br>
