@@ -40,14 +40,14 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "https://arxiv.org/abs/2006.07749"
+url_pdf = "https://arxiv.org/pdf/2405.15002"
 url_preprint = ""
-url_code = "https://github.com/ceciliaferrando/dp-ci"
+url_code = "https://github.com/ceciliaferrando/dd-ssp"
 url_dataset = ""
 url_project = ""
 url_slides = ""
-url_video = "https://drive.google.com/file/d/1EfcpShFQFwMxWKKNdfyvO0bBy1sTggYI/view?usp=sharing"
-url_poster = "https://drive.google.com/file/d/1LTOpr8IQHpVWyh4544eDBPsnKwePHnl-/view?usp=sharing"
+url_video = ""
+url_poster = "https://drive.google.com/file/d/1DUkFHx4WSHjeW4qqco6lsH3NWCizkqxh/view?usp=drive_link"
 url_source = ""
 
 # Custom links (optional).
