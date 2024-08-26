@@ -1,6 +1,6 @@
 +++
 title = "Private Regression via Data-Dependent Sufficient Statistic Perturbation"
-date = 2021-10-14T00:00:00
+date = 2024-05-23T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
