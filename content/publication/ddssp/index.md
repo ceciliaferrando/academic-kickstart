@@ -22,19 +22,7 @@ publication = "Under review"
 # publication_short = "AISTATS2022"
 
 # Abstract and optional shortened version.
-abstract = "Sufficient statistic perturbation (SSP) is a widely used method for differentially
-private linear regression. SSP adopts a data-independent approach where privacy
-noise from a simple distribution is added to sufficient statistics. However, sufficient
-statistics can often be expressed as linear queries and better approximated by
-data-dependent mechanisms. In this paper we introduce data-dependent SSP for
-linear regression based on post-processing privately released marginals, and find
-that it outperforms state-of-the-art data-independent SSP. We extend this result to
-logistic regression by developing an approximate objective that can be expressed
-in terms of sufficient statistics, resulting in a novel and highly competitive SSP
-approach for logistic regression. We also make a connection to synthetic data for
-machine learning: for models with sufficient statistics, training on synthetic data
-corresponds to data-dependent SSP, with the overall utility determined by how well
-the mechanism answers these linear queries."
+abstract = "Sufficient statistic perturbation (SSP) is a widely used method for differentially private linear regression. SSP adopts a data-independent approach where privacy noise from a simple distribution is added to sufficient statistics. However, sufficient statistics can often be expressed as linear queries and better approximated by data-dependent mechanisms. In this paper we introduce data-dependent SSP for linear regression based on post-processing privately released marginals, and find that it outperforms state-of-the-art data-independent SSP. We extend this result to logistic regression by developing an approximate objective that can be expressed in terms of sufficient statistics, resulting in a novel and highly competitive SSP approach for logistic regression. We also make a connection to synthetic data for machine learning: for models with sufficient statistics, training on synthetic data corresponds to data-dependent SSP, with the overall utility determined by how well the mechanism answers these linear queries."
 
 # Is this a selected publication? (true/false)
 selected = true
