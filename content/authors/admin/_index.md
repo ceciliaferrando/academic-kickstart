@@ -73,8 +73,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the Manning College of Information and Computer Sciences at the University of Massachusetts, Amherst. My current research is on statistical inference under differential privacy. I'm broadly interested in statistical machine learning and privacy-preserving machine learning. I am fortunate to be advised by professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). 
+I am a PhD candidate in Computer Science at the University of Massachusetts Amherst, where I'm fortunate to be advised by Professor [Daniel Sheldon](https://people.cs.umass.edu/~sheldon/). My primary research focus is on differential privacy, specifically making differential privacy practical for real-world  applications -- developing general-purpose private inference methods and optimizing privacy-utility trade-offs. I'm broadly interested in privacy-preserving machine learning and artificial intelligence.
 
-Before starting my PhD, I obtained a MS in Computational Design at Carnegie Mellon University, where I was supported by the Fulbright Scholarship. Upon graduating from Carnegie Mellon, I worked as a Machine Learning Software Engineer at Cadence, Pittsburgh. In the past couple of years, I have worked as a Summer research intern at Google (2021) and Meta (2022).
+Before my PhD, I earned an MS in Computational Design at Carnegie Mellon University as a Fulbright Scholar, then worked as a Machine Learning Software Engineer at Cadence in Pittsburgh. During my doctoral studies, I've completed Research and Research Engineering internships at Google (2021), Meta (2022), and LinkedIn (2025), applying my work to production ML systems.
 
-Besides research and courses, I serve as Co-Chair of the PhD Applicant Support Program. In 2021, I also co-lead the organizing committee of Voices of Data Science at UMass Amherst 2021. 
+In my free time, I like to surround myself with beauty -- whether through live classical music, curated vintage pieces, carefully designed spaces, or the artistry and challenge of FromSoftware games.
