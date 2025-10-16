@@ -19,6 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Assistant"
+  company = "College of Information and Computer Sciences, University of Massachusetts, Amherst"
+  company_url = ""
+  location = "Amherst, MA"
+  date_start = "2019-09-01"
+  date_end = ""
+  description = """Private Machine Learning research with prof. Daniel Sheldon"""
+
+  [[experience]]
+  title = "PhD AI/ML Intern"
+  company = "LinkedIn"
+  company_url = ""
+  location = "New York, NY"
+  date_start = "2025-05-23"
+  date_end = "2025-08-15"
+  description = """LLM-based inference in the CoreAI team"""
+
+
+[[experience]]
   title = "Research Engineer Intern"
   company = "Meta"
   company_url = ""
@@ -35,15 +54,6 @@ date_format = "Jan 2006"
   date_start = "2021-05-24"
   date_end = "2021-08-27"
   description = """Differential Privacy research with Alex Kulesza and Jenny Gillenwater, Modeling and Data Science team, NY"""
-  
-[[experience]]
-  title = "Research Assistant"
-  company = "College of Information and Computer Sciences, University of Massachusetts, Amherst"
-  company_url = ""
-  location = "Amherst, MA"
-  date_start = "2019-09-01"
-  date_end = ""
-  description = """Private Machine Learning research with prof. Daniel Sheldon"""
 
 [[experience]]
   title = "Machine Learning Software Engineer"
