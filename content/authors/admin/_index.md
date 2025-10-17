@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Massachusetts, Amherst
-    year: 2025 (exp.)
+    year: 2026 (exp.)
   - course: MS in Computational Design, focus on Machine Learning
     institution: Carnegie Mellon University
     year: 2018
