@@ -20,8 +20,9 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 +++
-
-* <b> [2022 GHC Scholarship](https://ghc.anitab.org/attend/scholarships/) </b> <br> 
+* <b> [2024 UMass Amherst CICS Thesis Writing Fellowship]() </b> <br> 
+<br>
+* <b> [2021 UMass Amherst CICS Dean's Outstanding Leadership Award]() </b> <br> 
 <br>
 * <b> [2020 Cadence Women in Technology Scholarship ($10,000)](https://www.cadence.com/en_US/home/company/cadence-academic-network/women-in-tech-scholarship.html) </b> <br> 
 <br>
