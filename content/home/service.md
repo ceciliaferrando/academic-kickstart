@@ -31,9 +31,5 @@ candidates. Received Dean’s Outstanding Leadership Award. <br>
 <br>
 <br>
 * <b> (2019-2020) Voices of Data Science. </b> Co-Chair. Lead the committee organizing the inaugural Voices of Data Science
-at UMass Amherst conference. The 2021 edition highlighted work by women (cis and trans) and non-binary
-data scientists<br> 
-<br>
-* <b> (2020) UMass Graduate CS Women group. </b> Social Co-Chair. Organized networking events for CS women
-graduate students and faculty<br> 
+at UMass Amherst conference.<br> 
 <br>
