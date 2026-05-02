@@ -22,5 +22,3 @@ list_format = 0
 # Exclude talks that are shown in the Selected Talks widget?
 exclude_selected = false
 +++
-* 09/2025 - I'm on the job market for Research and Research Engineering roles starting May 2026. Please reach out if you'd like to connect!
-* 08/2025 - [Our paper](https://openreview.net/pdf?id=gtCfDKm9ME) on private regression via data-dependent sufficient statistic perturbation is now published at TMLR.
