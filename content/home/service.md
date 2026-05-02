@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 +++
 
-* <b> (2022-) JMLR reviewer </b> <br> 
+* <b> (2022-) JMLR, NeurIPS, ICML, AISTATS reviewer </b> <br> 
 <br>
 * <b> (2020-2022) PhD Applicant Support Program (PASP). </b> University of Massachusetts Amherst CICS, Co-Founder and Co-Chair. A new
 mentorship program for prospective PhD students, with a focus on supporting underrepresented
-candidates. Received Dean’s Outstanding Anti-Racism Leadership Award. <br> 
+candidates. Received Dean’s Outstanding Leadership Award. <br> 
 <br>
 * <b> (2020-2022) Graduate mentor. </b> Mentored 8 CS undergraduate students. Honors thesis mentor to Adi Geva (now at NVIDIA).
 <br>
